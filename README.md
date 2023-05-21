@@ -32,3 +32,8 @@ Nthabiseng Tleane
 ### Sensing
 [8] "ESP32 with DHT11/DHT22 Temperature and Humidity Sensor using Arduino IDE" Accessed: May 21, 2023. https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-sensor-arduino-ide/ \
 [9] “ESP32-CAM PIR Motion Detector with Photo Capture | Random Nerd Tutorials,” Dec. 10, 2019. https://randomnerdtutorials.com/esp32-cam-pir-motion-detector-photo-capture/ (accessed May 21, 2023).\
+
+### Power
+[10] “How Accelerometer works? Interface ADXL335 with Arduino,” [https://github.com/espressif](https://lastminuteengineers.com/adxl335-accelerometer-arduino-tutorial/) (accessed May 21, 2023).\
+[11] “ADXL3xx Accelerometer”[https://docs.arduino.cc/built-in-examples/sensors/ADXL3xx) (accessed May 21, 2023).\
+
