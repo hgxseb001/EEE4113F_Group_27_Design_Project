@@ -28,3 +28,7 @@ Nthabiseng Tleane
 [5] “ESP32-CAM PIR Motion Detector with Photo Capture | Random Nerd Tutorials,” Dec. 10, 2019. https://randomnerdtutorials.com/esp32-cam-pir-motion-detector-photo-capture/ (accessed May 21, 2023).\
 [6] “ESP32 External Wake Up from Deep Sleep | Random Nerd Tutorials,” Apr. 02, 2019. https://randomnerdtutorials.com/esp32-external-wake-up-deep-sleep/ (accessed May 21, 2023).\
 [7] moononournation, “Arduino_BLE_Scanner.” Mar. 17, 2023. Accessed: May 21, 2023. [Online]. Available: https://github.com/moononournation/Arduino_BLE_Scanner\
+
+### Sensing
+[8] "ESP32 with DHT11/DHT22 Temperature and Humidity Sensor using Arduino IDE" Accessed: May 21, 2023. https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-sensor-arduino-ide/ \
+[9] “ESP32-CAM PIR Motion Detector with Photo Capture | Random Nerd Tutorials,” Dec. 10, 2019. https://randomnerdtutorials.com/esp32-cam-pir-motion-detector-photo-capture/ (accessed May 21, 2023).\
